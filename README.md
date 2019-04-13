@@ -1,0 +1,2 @@
+# Square root bisection and newton's method
+#The script prompts the user and uses the replies to ascertain which method to use on the inputted number, with some tolerancing scheme for knowing when to stop iterating
